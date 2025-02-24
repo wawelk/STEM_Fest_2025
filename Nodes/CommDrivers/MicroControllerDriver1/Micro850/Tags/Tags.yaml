@@ -1,0 +1,245 @@
+Name: Tags
+Type: FolderType
+Children:
+- Name: BOOL_IN_0
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_IN_0"
+- Name: BOOL_IN_1
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_IN_1"
+- Name: BOOL_IN_2
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_IN_2"
+- Name: BOOL_IN_3
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_IN_3"
+- Name: BOOL_IN_4
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_IN_4"
+- Name: BOOL_OUT_0
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_0"
+- Name: BOOL_OUT_1
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_1"
+- Name: BOOL_OUT_10
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_10"
+- Name: BOOL_OUT_2
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_2"
+- Name: BOOL_OUT_3
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_3"
+- Name: BOOL_OUT_4
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_4"
+- Name: BOOL_OUT_5
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_5"
+- Name: BOOL_OUT_6
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_6"
+- Name: BOOL_OUT_7
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_7"
+- Name: BOOL_OUT_8
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_8"
+- Name: BOOL_OUT_9
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "BOOL_OUT_9"
+- Name: Game_CountDown
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Game_CountDown"
+- Name: Game_Reset
+  Id: g=f4738bd132507f9cba0196912e193d26
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Game_Reset"
+- Name: Game_Running
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Game_Running"
+- Name: Game_Start
+  Id: g=0a1d677cfa3a0d5adcfc108f91148f9c
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Game_Start"
+- Name: Game_TimerSeconds
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Game_TimerSeconds"
+- Name: L1_EntryCount
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "L1_EntryCount"
+- Name: L1_ExitCount
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "L1_ExitCount"
+- Name: L1_LeftonBelt
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "L1_LeftonBelt"
+- Name: L1_Winner
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "L1_Winner"
+- Name: L2_EntryCount
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "L2_EntryCount"
+- Name: L2_ExitCount
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "L2_ExitCount"
+- Name: L2_LeftonBelt
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "L2_LeftonBelt"
+- Name: L2_Winner
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "L2_Winner"
+- Name: Tie_Game
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Tie_Game"
