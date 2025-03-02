@@ -7,6 +7,7 @@ using FTOptix.UI;
 using FTOptix.SerialPort;
 using FTOptix.MicroController;
 using FTOptix.CommunicationDriver;
+using FTOptix.WebUI;
 #endregion
 
 public class NetworkConfiguratorEditModelsLogic : BaseNetLogic

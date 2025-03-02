@@ -8,6 +8,7 @@ using FTOptix.Core;
 using FTOptix.CoreBase;
 using FTOptix.MicroController;
 using FTOptix.CommunicationDriver;
+using FTOptix.WebUI;
 #endregion
 
 public class FTRemoteAccessWidgetSetupLogic : BaseNetLogic

@@ -1,3 +1,13 @@
 Name: Groups
 Id: g=33ac98afcbbcd645bc8146197074cc43
 Type: GroupsCategoryFolder
+Children:
+- Name: STEM Fest
+  Id: g=f8b48215507abca532d5bd2937157961
+  Type: GroupType
+- Name: DCC
+  Id: g=9ec3e5d03dcd475e13c43efd0b3e4497
+  Type: GroupType
+- Name: MFG Day
+  Id: g=c1e918b8579ec7011d0341ea80f7cb7a
+  Type: GroupType

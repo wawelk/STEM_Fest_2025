@@ -5,6 +5,7 @@ using FTOptix.UI;
 using FTOptix.System;
 using FTOptix.MicroController;
 using FTOptix.CommunicationDriver;
+using FTOptix.WebUI;
 #endregion
 
 public class ConnectionSwitchLogic : BaseNetLogic

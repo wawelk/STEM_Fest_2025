@@ -1,3 +1,79 @@
 Name: Users
 Id: g=8cdfe95c558e909385d4fe7ddc9a2655
 Type: UsersCategoryFolder
+Children:
+- Name: STEM Fest
+  Id: g=8b41d836d669e33e36d5464c68c51c30
+  Type: UserType
+  Children:
+  - Name: LocaleId
+    Id: g=7deab4ed7971a334195911d61deac582
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-US"
+  - Name: Language
+    Id: g=d60359e99001bab6c176129e727021a5
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-US"
+  - Name: MeasurementSystem
+    Id: g=451e4008dccb9086e9eff6a5d471d921
+    Type: BaseVariableType
+    DataType: MeasurementSystem
+    ReferenceType: HasProperty
+    Value: 2
+  - Class: Reference
+    Type: HasGroup
+    Target: g=f8b48215507abca532d5bd2937157961
+- Name: DCC STEAM
+  Id: g=0430b3f3876fa8d6c8093018f0e424e6
+  Type: UserType
+  Children:
+  - Name: LocaleId
+    Id: g=15fb8ecfd994db24b50b8f694d4c3fb0
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-US"
+  - Name: Language
+    Id: g=3f45f7da4d834d8f92078f53e372fa21
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-US"
+  - Name: MeasurementSystem
+    Id: g=5c29202d6ac5aa8e936d4c47aed3b65d
+    Type: BaseVariableType
+    DataType: MeasurementSystem
+    ReferenceType: HasProperty
+    Value: 2
+  - Class: Reference
+    Type: HasGroup
+    Target: g=9ec3e5d03dcd475e13c43efd0b3e4497
+- Name: MFG Day
+  Id: g=99827b4a5064f62127a45b7a22b54ee3
+  Type: UserType
+  Children:
+  - Name: LocaleId
+    Id: g=05043efd354743638893d20119c5c6ee
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-US"
+  - Name: Language
+    Id: g=cd553d8f81348c32dee492f7cd1a621a
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-US"
+  - Name: MeasurementSystem
+    Id: g=6ef6a6bb69b678e85f7b87bb4736e525
+    Type: BaseVariableType
+    DataType: MeasurementSystem
+    ReferenceType: HasProperty
+    Value: 2
+  - Class: Reference
+    Type: HasGroup
+    Target: g=c1e918b8579ec7011d0341ea80f7cb7a

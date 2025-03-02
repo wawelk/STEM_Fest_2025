@@ -89,16 +89,24 @@ Project:
    Uri: 'urn:FTOptix:MicroController:Net'
    Module: FTOptix.MicroController.Net
    Version: 3.1
+  23:
+   Uri: 'urn:FTOptix:WebUI'
+   Module: FTOptix.WebUI
+   Version: 1.2
+  24:
+   Uri: 'urn:FTOptix:WebUI:Net'
+   Module: FTOptix.WebUI.Net
+   Version: 1.2
  Statistics:
-  TotalNodeCount: 2570
-  Objects: 442
-  ObjectTypes: 24
-  Variables: 2094
+  TotalNodeCount: 3135
+  Objects: 584
+  ObjectTypes: 32
+  Variables: 2504
   VariableTypes: 0
   DataTypes: 0
-  Methods: 10
-  References: 24
+  Methods: 15
+  References: 43
   ReferenceTypes: 0
-  Files: 34
+  Files: 38
  Nodes:
  - File: Nodes/STEM_Fest_2025.yaml

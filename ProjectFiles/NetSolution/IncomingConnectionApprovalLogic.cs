@@ -4,6 +4,7 @@ using FTOptix.NetLogic;
 using FTOptix.System;
 using FTOptix.MicroController;
 using FTOptix.CommunicationDriver;
+using FTOptix.WebUI;
 #endregion
 
 public class IncomingConnectionApprovalLogic : BaseNetLogic
