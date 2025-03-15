@@ -98,15 +98,15 @@ Project:
    Module: FTOptix.WebUI.Net
    Version: 1.2
  Statistics:
-  TotalNodeCount: 3135
-  Objects: 584
-  ObjectTypes: 32
-  Variables: 2504
+  TotalNodeCount: 3617
+  Objects: 658
+  ObjectTypes: 39
+  Variables: 2905
   VariableTypes: 0
   DataTypes: 0
   Methods: 15
-  References: 43
+  References: 45
   ReferenceTypes: 0
-  Files: 38
+  Files: 39
  Nodes:
  - File: Nodes/STEM_Fest_2025.yaml

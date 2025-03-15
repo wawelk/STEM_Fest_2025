@@ -171,6 +171,38 @@ Children:
     Type: BaseDataVariableType
     DataType: String
     Value: "Game_TimerSeconds"
+- Name: Game_Timer_Done
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Game_Timer_Done"
+- Name: GamesPlayedCounter
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "GamesPlayedCounter"
+- Name: HighScore
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "HighScore"
+- Name: L1WinCounter
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "L1WinCounter"
 - Name: L1_EntryCount
   Type: MicroControllerTag
   DataType: Int32
@@ -203,6 +235,14 @@ Children:
     Type: BaseDataVariableType
     DataType: String
     Value: "L1_Winner"
+- Name: L2WinCounter
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "L2WinCounter"
 - Name: L2_EntryCount
   Type: MicroControllerTag
   DataType: Int32
@@ -235,6 +275,22 @@ Children:
     Type: BaseDataVariableType
     DataType: String
     Value: "L2_Winner"
+- Name: Reset_Game_Stats
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Reset_Game_Stats"
+- Name: TieGameCounter
+  Type: MicroControllerTag
+  DataType: Int32
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "TieGameCounter"
 - Name: Tie_Game
   Type: MicroControllerTag
   DataType: Boolean
